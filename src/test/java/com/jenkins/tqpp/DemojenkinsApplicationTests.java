@@ -19,6 +19,7 @@ class DemojenkinsApplicationTests {
 		logger.info("hiii");
 		logger.info("bye bye");
 		logger.info("helooooooooooooooooooooooooo");
+		logger.info("dgfdgdgfdgfdgfd");
 		assertEquals(true, true);
 	}
 
